@@ -1,9 +1,9 @@
-#####################
-IS 210 Assignment ###
-#####################
-****************
-[Sub-Type] Tasks
-****************
+####################
+IS 210 Assignment 13
+####################
+************
+Warmup Tasks
+************
 
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
@@ -38,8 +38,8 @@ files that you create!
     practicing both the use of the language in practice and the search skills
     necessary to become functional programmers.
 
-[Sub-Type] Tasks
-================
+Warmup Tasks
+============
 
 Task ##
 -------

@@ -1,3 +1,7 @@
+# All json except green_markets.json
+*.json
+!green_markets.json
+
 # Vim swap files
 *.swp
 

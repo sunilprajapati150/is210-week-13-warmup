@@ -14,5 +14,5 @@ do
 done
 
 # unit tests
-nosetests -w "${TESTDIR}" --with-xunit --xunit-file="${LOGDIR}/nosetest.xml"
+nosetests --with-xunit --xunit-file="${LOGDIR}/nosetest.xml"
 
